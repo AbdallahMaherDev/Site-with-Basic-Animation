@@ -14,20 +14,16 @@ Responsive design for all devices
 
 🛠 Technologies Used
 
-HTML5
+HTML / Css 
 
 
 📂 Installation & Usage
-
-Clone the repository:
-
-git clone https://github.com/AbdallahMaherDev/Site-with-Basic-Animation.git
 
 Open index.html in your browser.
 
 🎨 Preview
 
-Live Demo (Add a link if hosted)
+Live Demo (https://ubiquitous-halva-5ddeba.netlify.app/)
 
 📬 Contact
 
